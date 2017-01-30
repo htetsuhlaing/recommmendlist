@@ -5,20 +5,20 @@
        "image":"https://s28.postimg.org/hcq9755rh/kdiscount_coupon.jpg",
        "logo":"https://s28.postimg.org/8o6luzd99/kfc.jpg",
        "title":"New Year Discount Sales",
-       "name":"KFC corporation"
+       "name":"KFC corporation",
        "related":{
          "related coupons":[
           { 
              "id":"01",
-             "logo":"https://s28.postimg.org/8o6luzd99/kfc.jp",
-             "title":"New Year Discount sales",
-             "name":"KFC corporation"
+             "rlogo":"https://s28.postimg.org/8o6luzd99/kfc.jp",
+             "rtitle":"New Year Discount sales",
+             "rname":"KFC corporation"
              },
            {
-           "id":"02",
-           "logo":"https://s28.postimg.org/8o6luzd99/kfc.jp",
-           "title":"Myanmar New Year Discount sales",
-           "name":"KFC corporation"
+           "rid":"02",
+           "rlogo":"https://s28.postimg.org/8o6luzd99/kfc.jp",
+           "rtitle":"Myanmar New Year Discount sales",
+           "rname":"KFC corporation"
            }
           ]
      }
@@ -28,20 +28,20 @@
        "image":"https://s30.postimg.org/9gsxhkwap/pizza.jpg",
        "logo":"https://s28.postimg.org/lhfakxbt9/garcia_s.jpg",
        "title":"Monthly Discount Sales",
-       "name":"Garcia's Famous Pizza"
+       "name":"Garcia's Famous Pizza",
        "related":{
          "related coupons":[
           { 
-             "id":"01",
-             "logo":"https://s28.postimg.org/lhfakxbt9/garcia_s.jpg",
-             "title":"New Year Discount sales",
-             "name":"Garcia's Famous Pizza"
+             "rid":"01",
+             "rlogo":"https://s28.postimg.org/lhfakxbt9/garcia_s.jpg",
+             "rtitle":"New Year Discount sales",
+             "rname":"Garcia's Famous Pizza"
              },
            {
-           "id":"02",
-           "logo":"https://s28.postimg.org/lhfakxbt9/garcia_s.jpg",
-           "title":"Myanmar New Year Discount sales",
-           "name":"Garcia's Famous Pizza"
+           "rid":"02",
+           "rlogo":"https://s28.postimg.org/lhfakxbt9/garcia_s.jpg",
+           "rtitle":"Myanmar New Year Discount sales",
+           "rname":"Garcia's Famous Pizza"
            }
           ] 
 }
@@ -51,20 +51,20 @@
        "image":"https://s30.postimg.org/o07vo5ugx/ckimage.jpg",
        "logo":"https://s23.postimg.org/6697j0ihn/cklogoo.png",
        "title":"Monthly Discount Sales",
-       "name":"Calvin Klein"
+       "name":"Calvin Klein",
        "related":{
          "related coupons":[
           { 
-             "id":"01",
-             "logo":"https://s23.postimg.org/6697j0ihn/cklogoo.png",
-             "title":"New Year Discount sales",
-             "name":"Calvin Klein"
+             "rid":"01",
+             "rlogo":"https://s23.postimg.org/6697j0ihn/cklogoo.png",
+             "rtitle":"New Year Discount sales",
+             "rname":"Calvin Klein"
              },
            {
-           "id":"02",
-           "logo":"https://s23.postimg.org/6697j0ihn/cklogoo.png",
-           "title":"Myanmar New Year Discount sales",
-           "name":"Calvin Klein"
+           "rid":"02",
+           "rlogo":"https://s23.postimg.org/6697j0ihn/cklogoo.png",
+           "rtitle":"Myanmar New Year Discount sales",
+           "rname":"Calvin Klein"
            }
           ] 
 }
