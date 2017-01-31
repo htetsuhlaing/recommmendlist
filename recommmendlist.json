@@ -5,6 +5,9 @@
        "image":"https://s28.postimg.org/hcq9755rh/kdiscount_coupon.jpg",
        "logo":"https://s28.postimg.org/8o6luzd99/kfc.jpg",
        "title":"New Year Discount Sales",
+       "issuedate":"2017-01-31",
+       "startdate":"2017-02-05",
+       "enddate":"2017-02-25",
        "name":"KFC corporation",
        "related":{
          "related coupons":[
@@ -28,6 +31,9 @@
        "image":"https://s30.postimg.org/9gsxhkwap/pizza.jpg",
        "logo":"https://s28.postimg.org/lhfakxbt9/garcia_s.jpg",
        "title":"Monthly Discount Sales",
+        "issuedate":"2017-01-31",
+       "startdate":"2017-02-05",
+       "enddate":"2017-02-20",
        "name":"Garcia's Famous Pizza",
        "related":{
          "related coupons":[
@@ -51,6 +57,9 @@
        "image":"https://s30.postimg.org/o07vo5ugx/ckimage.jpg",
        "logo":"https://s23.postimg.org/6697j0ihn/cklogoo.png",
        "title":"Monthly Discount Sales",
+        "issuedate":"2017-01-31",
+       "startdate":"2017-02-05",
+       "enddate":"2017-02-22",
        "name":"Calvin Klein",
        "related":{
          "related coupons":[
